@@ -1,30 +1,30 @@
 {
-  "name": "generator-express",
+  "name": "generator-express-api",
   "version": "2.4.1",
   "description": "A nodejs express generator for Yeoman",
   "keywords": [
     "yeoman-generator",
-    "express",
+    "express-api",
     "scaffold"
   ],
-  "homepage": "https://github.com/petecoop/generator-express",
-  "bugs": "https://github.com/petecoop/generator-express/issues",
+  "homepage": "https://github.com/vellengs/generator-express",
+  "bugs": "https://github.com/vellengs/generator-express/issues",
   "author": {
-    "name": "petecoop",
-    "email": "pete@petecoop.co.uk",
-    "url": "http://petecoop.co.uk"
+    "name": "vellengs",
+    "email": "vellengs@qq.com",
+    "url": "http://www.xmsee.com"
   },
   "contributors": [
     {
-      "name": "nategood",
-      "email": "me@nategood.com",
-      "url": "http://nategood.com"
+      "name": "vellengs",
+      "email": "vellengs@qq.com",
+      "url": "http://www.xmsee.com"
     }
   ],
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/petecoop/generator-express.git"
+    "url": "https://github.com/vellengs/generator-express.git"
   },
   "scripts": {
     "test": "mocha"
