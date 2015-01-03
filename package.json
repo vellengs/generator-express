@@ -1,7 +1,7 @@
 {
-  "name": "generator-express-api",
+  "name": "generator-express-easy-api",
   "version": "2.4.1",
-  "description": "A nodejs express generator for Yeoman",
+  "description": "A nodejs express rest api generator for Yeoman",
   "keywords": [
     "yeoman-generator",
     "express-api",
